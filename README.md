@@ -90,7 +90,7 @@ All data is generated with a **fixed random seed (42)** so results are fully rep
 ```bash
 # 1. Clone or download the repository
 git clone https://github.com/EmAa-F/DBMS-mini-project.git
-cd "dms mini"
+cd DBMS-mini-project
 
 # 2. Run the application (auto-seeds on first launch)
 python main.py
@@ -132,7 +132,7 @@ python scripts/seed_db.py
 
 ```
                 ┌─────────────────────────────────────┐
-                │               main.py.              │
+                │               main.py               │
                 │            (Entry Point)            │
                 └──────────────────┬──────────────────┘
                                    │                   
